@@ -9,7 +9,7 @@
     "build": "webpack --mode=production"
   },
   "author": "Jana Lubojacka",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
